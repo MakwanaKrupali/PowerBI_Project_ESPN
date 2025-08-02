@@ -1,5 +1,5 @@
-# PowerBI_Project_ESPN
-Power BI Project web Scrapping
+# ESPN Cricket Info #
+### Dashboard Link : https://app.powerbi.com/links/ML0Ma8ZMP9?ctid=e174160b-0a73-4f89-87de-569313b80763&pbi_source=linkShare
 ## Problem Statement ## 
 In this particular project we have used web as the data source.
 We basically have imported the data for India, South Africa for three different categories that is
@@ -11,3 +11,4 @@ So the first page is related to batting data analysis.
 Second one is related to bowling data analysis and third one is related to fielding data analysis.
 There was some tabular data which was basically being represented, 
 the ESPN Cricinfo page.
+
