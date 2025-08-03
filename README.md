@@ -12,3 +12,7 @@ Second one is related to bowling data analysis and third one is related to field
 There was some tabular data which was basically being represented, 
 the ESPN Cricinfo page.
 
+
+"C:\Users\Krupali\PythonClass\Projects\Batting_Report.png"
+"C:\Users\Krupali\PythonClass\Projects\Bowling_Report.png"
+"C:\Users\Krupali\PythonClass\Projects\Fielling_Report.png"
