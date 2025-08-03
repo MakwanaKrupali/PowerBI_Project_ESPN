@@ -15,3 +15,5 @@ the ESPN Cricinfo page.
 ![Image](https://github.com/user-attachments/assets/1565fa81-2ace-449d-9920-5c3414047841)
 
 ![Image](https://github.com/user-attachments/assets/122bc082-45fc-4bab-b01e-51d46a135ae2)
+
+![Image](https://github.com/user-attachments/assets/43184c1e-2c98-4415-b315-801bef382473)
