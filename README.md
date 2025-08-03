@@ -13,3 +13,5 @@ There was some tabular data which was basically being represented,
 the ESPN Cricinfo page.
 
 ![Image](https://github.com/user-attachments/assets/1565fa81-2ace-449d-9920-5c3414047841)
+
+![Image](https://github.com/user-attachments/assets/122bc082-45fc-4bab-b01e-51d46a135ae2)
